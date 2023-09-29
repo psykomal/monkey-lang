@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/kitasuke/monkey-go/ast"
-	"github.com/kitasuke/monkey-go/lexer"
-	"github.com/kitasuke/monkey-go/token"
+	"github.com/psykomal/monkey-lang/ast"
+	"github.com/psykomal/monkey-lang/lexer"
+	"github.com/psykomal/monkey-lang/token"
 )
 
 const (
